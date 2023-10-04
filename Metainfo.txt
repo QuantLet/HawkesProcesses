@@ -1,0 +1,22 @@
+
+Name of Quantlet:  HawkesProcesses
+
+Published in:     ''
+
+Description:      'Estimate and forecast Hawkes Processes using maximum likelihood estimation. Multiple kernels for the intensity function are possible. Apply a Hawkes Process to BTCUSD 1-second data and predict futures price jumps.'
+
+Submitted:  '05 Oct 2023'
+
+Keywords: 
+- 'Hawkes Processes'
+- 'Stochastic Jumps'
+- 'Bitcoin Price Jumps'
+- 'Stochastic Process'
+- 'Self-Exciting Jumps'
+
+Author: 
+- 'Lukas Krain'
+
+See also: 
+- 'Lee Mykland Jump Test'
+- 'Hawkes, Omitakahiro'
