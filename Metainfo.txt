@@ -3,7 +3,7 @@ Name of Quantlet:  HawkesProcesses
 
 Published in:     ''
 
-Description:      'Estimate and forecast Hawkes Processes using maximum likelihood estimation. Multiple kernels for the intensity function are possible. Apply a Hawkes Process to BTCUSD 1-second data and predict futures price jumps.'
+Description:      'Estimate and forecast Hawkes Processes using maximum likelihood estimation. Multiple kernels for the intensity function are possible. Apply a Hawkes Process to BTCUSD 1-second data and predict futures price jumps. Up-to-date price data can be found here (https://data.binance.vision/?prefix=data/spot/daily/klines/BTCTUSD/1s/)'
 
 Submitted:  '05 Oct 2023'
 
