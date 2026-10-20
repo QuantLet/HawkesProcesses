@@ -14,18 +14,18 @@ Description: Estimate and forecast Hawkes Processes using maximum likelihood est
 Submitted: 05 Oct 2023
 
 Keywords: 
-- 'Hawkes Processes
-- 'Stochastic Jumps
-- 'Bitcoin Price Jumps
-- 'Stochastic Process
-- 'Self-Exciting Jumps
+- Hawkes Processes
+- Stochastic Jumps
+- Bitcoin Price Jumps
+- Stochastic Process
+- Self-Exciting Jumps
 
 Author: 
-- 'Lukas Krain
+- Lukas Krain
 
 See also: 
-- 'Lee Mykland Jump Test
-- 'Hawkes, Omitakahiro
+- Lee Mykland Jump Test
+- Hawkes, Omitakahiro
 
 ```
 <div align="center">
